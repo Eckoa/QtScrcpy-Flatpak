@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Icon=in.barryran.QtScrcpy
+Name=QtScrcpy
+Exec=
+Terminal=false
+Hidden=false
+Categories=Development;Utility
+Comment=Android real-time screencast control tool
