@@ -1,4 +1,6 @@
-# QtScrcpy 
+# QtScrcpy-Flatpak
+
+Fork of Upstream with slight changes for building with flatpak-builder
 
 [![Financial Contributors to Open Collective](https://opencollective.com/QtScrcpy/all/badge.svg?label=financial+contributors)](https://opencollective.com/QtScrcpy)
 ![Windows](https://github.com/barry-ran/QtScrcpy/workflows/Windows/badge.svg)
